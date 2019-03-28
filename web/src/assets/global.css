@@ -1,0 +1,39 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td {margin:0;padding:0;}
+a {
+  text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+body {
+  background-color: #f5f7fa;
+}
+.center {
+  text-align: center!important;
+}
+.right {
+  text-align: right!important;
+}
+.minWidth {
+  min-width: 1366px;
+}
+/* 去除富文本右下角的商标链接 */
+span[id^="mceu_"]{
+  display: none;
+}
+.header {
+  opacity: 0.98;
+  text-align: center;
+  height: 60px;
+  line-height: 60px;
+  background-color: #fff;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  min-width: 1366px;
+}
+.header .back{
+  position: absolute;
+  left: 100px;
+  cursor: pointer;
+}
