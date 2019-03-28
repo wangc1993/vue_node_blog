@@ -8,7 +8,6 @@
 ## 前台界面
 ### 1、首页
 <img src="https://github.com/wangc1993/vue_node_blog/blob/master/img/1.png" width="100%" height="400px">
-其中包括：
 1. 新闻版块（数据由第三方提供）
 2. 微信精选（数据由第三方提供）
 <div align=center><img src="https://github.com/wangc1993/vue_node_blog/blob/master/img/2.png" width="160" height="240"><img src="https://github.com/wangc1993/vue_node_blog/blob/master/img/3.png" width="160" height="240"></div>
@@ -46,7 +45,7 @@
 
 ## 后台界面（管理员）
 <img src="https://github.com/wangc1993/vue_node_blog/blob/master/img/15.png" width="100%" height="200px">
-### 1、 用户管理页
+### 1、用户管理页
 <div align=center><img src="https://github.com/wangc1993/vue_node_blog/blob/master/img/16.png" width="320" height="400"></div>
 
 ### 2、分类管理页
